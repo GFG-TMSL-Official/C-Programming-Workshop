@@ -1,1 +1,1 @@
-# Git-Workshop
+# C Programming Workshop 
